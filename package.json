@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "capture": "yarn mkdirp capture && yarn pageres https://kaku-hito.com --filename='capture/capture'"
+    "capture": "yarn mkdirp capture && yarn pageres https://macu.link --filename='capture/capture'"
   },
   "keywords": [],
   "author": "",
